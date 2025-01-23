@@ -30,7 +30,7 @@ In this challenge a Jupyter Notebook is created to analyze the schools and stand
 1. Clone the repository
 
 ```
-git clone https://github.com/PratishthaTheeng/pandas_challenge.git
+git clone https://github.com/PratishthaTheeng/pandas-challenge.git
 ```
 
 ## Usage
