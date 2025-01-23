@@ -1,0 +1,35 @@
+Analysis of School Spending and Academic Performance
+
+Based on the data we gathered, we categorized schools according to their per-student spending and then calculated the average math and reading scores, as well as passing percentages (for math, reading, and overall) for each spending group. The results reveal some interesting patterns regarding the relationship between school spending and academic achievement.
+
+Summary of the Analysis:
+Low Spending Schools (<$585 per student):
+
+These schools have the highest average math (83.46) and reading scores (83.93), as well as the highest passing rates for all subjects.
+Specifically, they boast an outstanding 93.46% passing rate in math and a 90.37% overall passing rate.
+Despite their relatively low spending, these schools achieve the best academic outcomes.
+Medium to High Spending Schools ($585-$680 per student):
+
+Schools in this category, with spending ranging from $585 to $680 per student, show a decline in academic performance as spending increases.
+Math scores decrease as the spending range increases: 81.90 for $585-$630 → 78.52 for $630-$645 → 76.99 for $645-$680.
+Passing percentages in math and overall passing also decline.
+This suggests that higher spending does not necessarily result in better academic outcomes.
+High Spending Schools (≥$680 per student):
+
+The schools with the highest spending (over $680 per student) show the lowest academic performance overall.
+These schools have the lowest average math and reading scores, as well as the lowest passing rates in all subjects.
+For example, the math passing rate drops to 65%, and the overall passing rate falls to 55%, the lowest in all categories.
+Key Conclusions:
+Inverse Relationship Between Spending and Academic Performance:
+
+Schools with lower spending (under $585 per student) tend to perform better academically, both in test scores and passing rates. This suggests that factors beyond spending—such as teaching quality, school management, or socio-economic influences—may play a larger role in academic success than the amount of money spent per student.
+Higher Spending Doesn’t Guarantee Better Performance:
+
+Interestingly, schools spending more than $585 per student, particularly those spending above $645, see a decline in academic performance. This indicates that increasing funding does not automatically improve results. How the money is allocated (e.g., for teachers, resources, or programs) may matter more than just the overall budget.
+Implications for Policy and Further Research:
+Funding Allocation: Policymakers should evaluate whether increasing spending will truly improve student outcomes or if resources could be better invested in other areas like improving teaching quality, curriculum, or school leadership.
+
+Further Research: It would be helpful to explore the factors that differentiate high-spending schools with poor performance from low-spending schools with better results. Variables such as teacher quality, student-to-teacher ratio, leadership, and community involvement might provide valuable insights.
+
+This analysis underscores that while funding is important, it is not the only factor influencing educational success. Effectively managing and utilizing resources could be more crucial than simply increasing spending.
+
